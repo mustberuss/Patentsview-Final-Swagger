@@ -4,3 +4,6 @@ The Patentsview API team has shutdown both versions of their API and removed the
 
 The later version of the API is supposed to appear on the USPTO's Open Data Portal as mentioned [here](https://data.uspto.gov/support/transition-guide/patentsview), but it hasn't yet.  Note that the new version of the API is available from https://patentref.io/, in beta with usage restrictions.
 
+## Links
+- Swagger-UI 
+    + https://mustberuss.github.io/Patentsview-Final-Swagger/  
